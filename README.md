@@ -1,7 +1,10 @@
-# Gruppo_IS_08 - Sistema di Gestione di Prenotazioni per Stabilimenti Balneari
+# Gruppo_IS_08 
+***Sistema di Gestione di Prenotazioni per Stabilimenti Balneari***
 
 **Corso:** Ingegneria del Software - a.a. 2025/26
+
 **Docente:** Prof. Domenico Amalfitano
+
 **Corso di Laurea:** Ingegneria Informatica
 
 ---
